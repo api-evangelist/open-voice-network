@@ -10,10 +10,10 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Voice
   - AI
-  - Standards
   - Linux Foundation
+  - Standards
+  - Voice
 created: '2026-03-16'
 modified: '2026-03-16'
 url: >-
@@ -28,8 +28,8 @@ apis:
       systems across platforms and devices.
     humanURL: https://openvoicenetwork.org/resources/
     tags:
-      - Voice
       - AI
+      - Voice
     properties:
       - type: Documentation
         url: https://openvoicenetwork.org/resources/
