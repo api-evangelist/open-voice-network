@@ -34,6 +34,8 @@ apis:
       - type: Documentation
         url: https://openvoicenetwork.org/resources/
 common:
+  - type: DomainSecurity
+    url: security/open-voice-network-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/open-voice-network
   - type: Documentation
