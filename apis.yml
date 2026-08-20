@@ -22,6 +22,11 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/open-voice-network.png
 tags:
+  - Artificial Intelligence
+  - Linux Foundation
+  - Standards
+  - Voice
+tags_raw:
   - AI
   - Linux Foundation
   - Standards
@@ -40,6 +45,9 @@ apis:
       systems across platforms and devices.
     humanURL: https://openvoicenetwork.org/resources/
     tags:
+      - Artificial Intelligence
+      - Voice
+    tags_raw:
       - AI
       - Voice
     properties:
