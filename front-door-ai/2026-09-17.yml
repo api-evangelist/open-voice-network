@@ -1,0 +1,31 @@
+# Front Door AI Index — open-voice-network — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: open-voice-network
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: openvoicenetwork.org
+  final_host: lfaidata.foundation
+  ownership: inherited
+  owner: open-voice-network
+  shares_host_with: null
+  inherited_from: lfaidata.foundation
+  verdict: scored
+  score: null
+  host_score: 54
+  density: null
+  words: 1020
+  tiers:
+    agentic: 0
+    core: 54
+    model: 0
+  ambiguous: 3
+  top_terms:
+    AI: 43
+    artificial intelligence: 3
+    generative ai: 3
+    intelligence: 3
+    gen ai: 2
+    machine learning: 2
+    deep learning: 1
